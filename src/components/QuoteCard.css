@@ -1,0 +1,10 @@
+.QuoteCard {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+figcaption {
+    text-align: center;
+}
